@@ -3,3 +3,15 @@
   float: left;
   text-align: center;
 }
+
+.cat {
+  float: right;
+}
+
+.dog {
+  float: right;
+}
+
+.goat {
+  float: right;
+}
